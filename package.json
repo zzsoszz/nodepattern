@@ -1,0 +1,15 @@
+{
+  "name": "nodepattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^0.15.3",
+    "seaport": "^2.0.9"
+  }
+}
